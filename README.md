@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Material Components for Flutter Codelabs
 
 This repository contains four codelabs for [Material Components for Flutter](https://github.com/material-components/material-components-flutter).
@@ -39,3 +40,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# Dorotheeshrine
+>>>>>>> e296cf436841ec48e20be8d088126a74687f34ea
